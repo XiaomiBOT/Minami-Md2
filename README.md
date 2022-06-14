@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# MINAMI BOT BY RIYO XDZ
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -71,6 +71,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 ## Thanks To
+* [`Riyoxdz`](https://github.com/RiyoXdz)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
@@ -79,11 +80,9 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+* [`Saweria`](https://saweria.co/riyoxdz)
 
 ## Contact Me
-* [`Wangsap`](https://wa.me/6288292024190)
-* [`Igeh`](https://instagram.com/cak_haho)
-* [`Pesbuk`](https://www.facebook.com/Haho.id)
+* [`Wangsap`](https://wa.me/6281223918622)
+* [`Igeh`](https://instagram.com/riyoxdz)
 
