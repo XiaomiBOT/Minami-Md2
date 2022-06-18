@@ -13,7 +13,6 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = { // API Prefix
-	// nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
@@ -31,7 +30,6 @@ global.APIs = { // API Prefix
 }
 // Apikey Website Api
 global.APIKeys = { // APIKey Here
-	'// 'https://website': 'apikey'
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
